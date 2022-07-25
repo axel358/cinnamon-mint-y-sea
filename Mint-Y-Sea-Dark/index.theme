@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-Y-Sea-Dark
+Comment=Mint-Y theme with Matcha Sea Dark Colors
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-Y-Dark
+MetacityTheme=Mint-Y
+IconTheme=Mint-Y-Dark
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
